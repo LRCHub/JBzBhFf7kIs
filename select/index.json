@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "恋する惑星",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-04T18:34:03.978832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/01_恋する惑星_花澤香菜.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "Uri Nakayama",
+      "has_synced": true,
+      "path": "select/02_恋する惑星_Uri_Nakayama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "Kana Hanazawa",
+      "has_synced": false,
+      "path": "select/03_恋する惑星_Kana_Hanazawa.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "Cousin",
+      "has_synced": false,
+      "path": "select/04_恋する惑星_Cousin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/05_恋する惑星_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "花澤 香菜",
+      "has_synced": false,
+      "path": "select/06_恋する惑星_花澤_香菜.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "Cousin",
+      "has_synced": false,
+      "path": "select/07_恋する惑星_Cousin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋する惑星",
+      "artist": "Hanazawa Kana",
+      "has_synced": false,
+      "path": "select/08_恋する惑星_Hanazawa_Kana.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋する惑星(Instrumental)",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/09_恋する惑星(Instrumental)_花澤香菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する惑星",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_恋する惑星_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
